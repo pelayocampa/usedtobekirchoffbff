@@ -1,3 +1,4 @@
 # usedtobekirchoffbff
 
-Actividad de FFI para el Dr. Alberto Corbi Bellot.
+Actividad de FFI. Laboratorio de SPICE.
+Se agrega un fichero con un programa para GNUPlot para la parte *premium*
